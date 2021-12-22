@@ -1,1 +1,1 @@
-# StockMarketPrediction
+# Predicting Stock Market Prices 
